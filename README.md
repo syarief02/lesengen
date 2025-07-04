@@ -1,4 +1,3 @@
-````markdown
 # lesengen
 
 A two-part MetaTrader 4 Expert Advisor (EA) license system written in MQL4.  
@@ -64,7 +63,7 @@ It consists of:
 • ValidDuration:    3  
 • TimeUnit:         UNIT_MONTHS  
 • ForDemoAccount:   false  
-````
+```
 
 A popup will display your key, expiry date, and instructions to copy it into the EA.
 
