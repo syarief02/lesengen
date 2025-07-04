@@ -5,7 +5,7 @@ It consists of:
 
 - **lesenGen.mq4** – a script that generates a time-limited license key based on your account number and desired validity period :contentReference[oaicite:0]{index=0}  
 - **mainEA.mq4** – the protected EA that enforces license validation at startup :contentReference[oaicite:1]{index=1}  
-- **LICENSE** – this project is now released under the GNU General Public License v3.0 :contentReference[oaicite:2]{index=2}
+- **LICENSE** – this project is now released under the GNU General Public License v3.0 
 
 ---
 
@@ -110,9 +110,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE) ([
 
 ---
 
-```
-::contentReference[oaicite:4]{index=4}
-```
 
 [1]: https://raw.githubusercontent.com/syarief02/lesengen/main/LICENSE "raw.githubusercontent.com"
 
