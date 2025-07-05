@@ -3,8 +3,8 @@
 A two-part MetaTrader 4 Expert Advisor (EA) license system written in MQL4.  
 It consists of:
 
-- **lesenGen.mq4** – a script that generates a time-limited license key based on your account number and desired validity period :contentReference[oaicite:0]{index=0}  
-- **mainEA.mq4** – the protected EA that enforces license validation at startup :contentReference[oaicite:1]{index=1}  
+- **lesenGen.mq4** – a script that generates a time-limited license key based on your account number and desired validity period 
+- **mainEA.mq4** – the protected EA that enforces license validation at startup 
 - **LICENSE** – this project is now released under the GNU General Public License v3.0 
 
 ---
